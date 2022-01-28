@@ -1,5 +1,8 @@
 # Vega public feedback discussions
 
+[![](https://img.shields.io/badge/Project-Vega-yellow?style=flat-square)](https://vega.xyz/)
+[![Discord](https://img.shields.io/discord/720571334798737489?color=yellow&label=discord&style=flat-square)](https://discord.gg/cYxGQ6Xv)
+
 In this repository, you can find the official [Vega public feedback discussions](https://github.com/vegaprotocol/feedback/discussions) for the following project areas:
 
 - [Console](https://console.fairground.wtf/) - [📈 Console discussions](https://github.com/vegaprotocol/feedback/discussions/categories/console)
