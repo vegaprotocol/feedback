@@ -7,12 +7,12 @@ In this repository, you can find the official [Vega public feedback discussions]
 
 - [🧮 API queries](https://github.com/vegaprotocol/data-node/releases) - [API query discussions](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries)
 - [📜 Documentation Requests](https://docs.vega.xyz/) - [📜 Vega documentation discussions](https://github.com/vegaprotocol/feedback/discussions/categories/documentation-requests)
+- 📓 General Feedback - [General discussions](https://github.com/vegaprotocol/feedback/discussions/categories/general-feedback)
 - [💡 Protocol Software](https://github.com/vegaprotocol/vega/releases) - [Vega protocol software discussions](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software)
 - [🥩 Staking](https://token.vega.xyz/staking) - [Staking discussions](https://github.com/vegaprotocol/feedback/discussions/categories/staking)
 - [💻 Token dApp (token.vega.xyz)](https://token.vega.xyz/) - [Token dApp discussions](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-token-vega-xyz)
 - [📈 Trading Interface](https://console.fairground.wtf/trading) - [Trading Interface discussions](https://github.com/vegaprotocol/feedback/discussions/categories/trading-interface)
-- [⌨️ Vega CLI Wallet](https://github.com/vegaprotocol/vegawallet/releases) - [Vega CLI Wallet discussions](https://github.com/vegaprotocol/feedback/discussions/categories/vega-cli-wallet)
-- [🖥️ Vega Desktop Wallet](https://github.com/vegaprotocol/vegawallet-desktop/releases) - [Vega Desktop Wallet discussions](https://github.com/vegaprotocol/feedback/discussions/categories/vega-desktop-wallet)
+- ⌨️ Vega Wallet [CLI](https://github.com/vegaprotocol/vegawallet/releases) and [Desktop](https://github.com/vegaprotocol/vegawallet-desktop/releases) - [Vega Wallet discussions](https://github.com/vegaprotocol/feedback/discussions/categories/vega-wallet)
 
 Vega discussions are the place to share suggestions, offer improvement suggestions or report bugs. Vega discussions give the opportunity to discuss all these with the community, including members of the Vega project team.
 
