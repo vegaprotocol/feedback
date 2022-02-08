@@ -41,13 +41,13 @@ regulatory guidelines around cryptographic tokens:
 * 'Shilling' or advertising on behalf of other projects
 * Discriminatory content or inflammatory remarks
 * Impersonation or spreading inaccurate information
-* Attepmts to phish or scam other members of the community
+* Attempts to phish or scam other members of the community
 
 ## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+response to any instances of unacceptable behaviour.
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
