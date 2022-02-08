@@ -34,13 +34,14 @@ Examples of unacceptable behavior by participants include:
   
 ## Vega Community Guidelines
 
-In the interest of regulatory guidelines around cryptographic tokens there must be NO:
+Examples of unacceptable behavior by participants that breach both project and 
+regulatory guidelines around cryptographic tokens:
 
 * Token sales or price discussion
 * 'Shilling' or advertising on behalf of other projects
 * Discriminatory content or inflammatory remarks
 * Impersonation or spreading inaccurate information
-* Any attepmt to phish or scam other members of the community
+* Attepmts to phish or scam other members of the community
 
 ## Our Responsibilities
 
