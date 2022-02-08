@@ -31,6 +31,16 @@ Examples of unacceptable behavior by participants include:
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+  
+## Vega Community Guidelines
+
+In the interest of regulatory guidelines around cryptographic tokens there must be NO:
+
+* Token sales or price discussion
+* 'Shilling' or advertising on behalf of other projects
+* Discriminatory content or inflammatory remarks
+* Impersonation or spreading inaccurate information
+* Any attepmt to phish or scam other members of the community
 
 ## Our Responsibilities
 
@@ -61,6 +71,10 @@ complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
+
+Incidences of anyone breaching the commuinty guidelines around cryptographic tokens
+will be reviewed, investigated and will result in any information being removed from 
+the discussions.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
