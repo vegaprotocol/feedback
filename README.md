@@ -16,6 +16,8 @@ In this repository, you can find the official [Vega public feedback discussions]
 
 Vega discussions are the place to share suggestions, offer improvement suggestions or report bugs. Vega discussions give the opportunity to discuss all these with the community, including members of the Vega project team.
 
+See what is coming on the the [Vega Protocol public roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/1)
+
 ## Starting a discussion
 
 Prior to opening a new discussion, please look at previous discussions to see if someone else has already raised your suggestions or reported the same bug. If you find a similar discussion has already been created, reply with additional details or upvote the discussion to signal your support rather than creating a new discussion.
