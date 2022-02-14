@@ -5,18 +5,17 @@
 
 In this repository, you can find the official [Vega public feedback discussions](https://github.com/vegaprotocol/feedback/discussions) for the following project areas:
 
-- [🧮 API queries](https://github.com/vegaprotocol/data-node/releases) - [API query discussions](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries)
-- [📜 Documentation Requests](https://docs.vega.xyz/) - [📜 Vega documentation discussions](https://github.com/vegaprotocol/feedback/discussions/categories/documentation-requests)
-- 📓 General Feedback - [General discussions](https://github.com/vegaprotocol/feedback/discussions/categories/general-feedback)
-- [💡 Protocol Software](https://github.com/vegaprotocol/vega/releases) - [Vega protocol software discussions](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software)
-- [🥩 Staking](https://token.vega.xyz/staking) - [Staking discussions](https://github.com/vegaprotocol/feedback/discussions/categories/staking)
-- [💻 Token dApp (token.vega.xyz)](https://token.vega.xyz/) - [Token dApp discussions](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-token-vega-xyz)
-- [📈 Trading Interface](https://console.fairground.wtf/trading) - [Trading Interface discussions](https://github.com/vegaprotocol/feedback/discussions/categories/trading-interface)
-- ⌨️ Vega Wallet [CLI](https://github.com/vegaprotocol/vegawallet/releases) and [Desktop](https://github.com/vegaprotocol/vegawallet-desktop/releases) - [Vega Wallet discussions](https://github.com/vegaprotocol/feedback/discussions/categories/vega-wallet)
+- [🧮 API queries](https://github.com/vegaprotocol/feedback/discussions/categories/api-queries) Feedback and questions about the Vega APIs
+- [📓 General discussions](https://github.com/vegaprotocol/feedback/discussions/categories/general-feedback) General feedback and questions for the project
+- [💡 Protocol Software](https://github.com/vegaprotocol/feedback/discussions/categories/protocol-software) Feedback and questions about the design and implementation of the Vega Protocol software
+- [🏃 Running a Node](https://github.com/vegaprotocol/feedback/discussions#:~:text=%F0%9F%8F%83,Running%20a%20Node) Feedback and questions about running a Vega node
+- [📜 Smart Contracts](https://github.com/vegaprotocol/feedback/discussions/categories/smart-contracts) Feedback and questions about the Vega smart contracts
+- [💻 Token dApp and Console](https://github.com/vegaprotocol/feedback/discussions/categories/token-dapp-and-console) Feedback and questions about the Vega front end dApps (token dApp and the Console)
+- [⌨️ Vega Wallet](https://github.com/vegaprotocol/feedback/discussions/categories/vega-wallets) Feedback and questions about the Vega wallets (CLI, Desktop and Web)
 
 Vega discussions are the place to share suggestions, offer improvement suggestions or report bugs. Vega discussions give the opportunity to discuss all these with the community, including members of the Vega project team.
 
-See what is coming on the the [Vega Protocol public roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/1)
+See what is coming on the the [Vega Protocol public roadmap](https://github.com/orgs/vegaprotocol/projects/114/views/4)
 
 ## Starting a discussion
 
