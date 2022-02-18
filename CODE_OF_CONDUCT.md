@@ -49,7 +49,7 @@ Project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behaviour.
 
-Project maintainers have the right and responsibility to remove, edit, or
+Project maintainers have the right to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
@@ -69,12 +69,11 @@ a project may be further defined and clarified by project maintainers.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at hi@vega.xyz. All
 complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
+is deemed necessary and appropriate to the circumstances. The project team will maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 
-Incidences of anyone breaching the commuinty guidelines around cryptographic tokens
-will be reviewed, investigated and will result in any information being removed from 
+Incidences of anyone breaching the community guidelines around cryptographic tokens
+will be reviewed, investigated and could result in material being removed from 
 the discussions.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
