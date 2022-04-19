@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Vega Protocol Feedback
+    url: https://github.com/vegaprotocol/feedback/discussions
+    about: Share your feedback with the Vega project team.
