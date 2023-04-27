@@ -47,18 +47,51 @@ body:
       required: true
 
   - type: input
-    id: has-id
+    id: pubkey
     attributes:
-      label: pub-key
+      label: Public key
       description: "Please add your Vega public key to help investigations."
     validations:
       required: false
+
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network affected
+      description: "Please specify the network affected to help investigations."
+      options:
+        - Mainnet
+        - Validator testnet
+        - Fairground
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: wallet-type
+    attributes:
+      label: Wallet type
+      description: "Please specify which wallet type the bug is applicable to."
+      options:
+        - label: CLI wallet
+        - label: Desktop wallet
+        - label: Node wallet (node operators)
+        - label: Browser wallet
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Wallet version
+      description: "Please add your Vega wallet version number e.g., 0.12.0."
+    validations:
+      required: true
 
   - type: textarea
     id: system-info
     attributes:
       label: System information
-      description: "Add any other context about the problem here including which app you're using, version numbers, components affected."
+      description: "Add any other context about the problem here including which app you're using and components affected."
     validations:
       required: true
 

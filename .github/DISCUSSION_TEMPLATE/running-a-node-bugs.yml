@@ -47,12 +47,25 @@ body:
       required: true
 
   - type: input
-    id: has-id
+    id: pubkey
     attributes:
-      label: pub-key
+      label: Public key
       description: "Please add your Vega public key to help investigations."
     validations:
       required: false
+
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network affected
+      description: "Please specify the network affected to help investigations."
+      options:
+        - Mainnet
+        - Validator testnet
+        - Fairground
+        - Local / Vega Capsule
+    validations:
+      required: true
 
   - type: textarea
     id: system-info
