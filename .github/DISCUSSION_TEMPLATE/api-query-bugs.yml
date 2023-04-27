@@ -4,7 +4,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking your time to file a bug report!
+        Thank you for taking the time to file a bug report!
 
   - type: textarea
     id: bug
@@ -34,7 +34,7 @@ body:
     id: reproduce
     attributes:
       label: Steps to reproduce
-      description: "Detail the steps to reproduce the behaviour"
+      description: "Detail the steps to reproduce the behaviour."
       value: |
         1. Go to '...'
         2. Click on '....'
@@ -50,7 +50,7 @@ body:
     id: has-id
     attributes:
       label: pub-key
-      description: Please add your vega pubkey to help investigations.
+      description: "Please add your Vega public key to help investigations."
     validations:
       required: false
 
@@ -58,7 +58,7 @@ body:
     id: system-info
     attributes:
       label: System information
-      description: "Add any other context about the problem here including; system version numbers, components affected."
+      description: "Add any other context about the problem here including system version numbers, components affected."
     validations:
       required: true
 
@@ -66,6 +66,6 @@ body:
     id: visual-info
     attributes:
       label: Screenshots and videos
-      description: "Add any other context about the problem here including; screenshots and videos."
+      description: "Add any other context about the problem here including screenshots and videos."
     validations:
       required: false
