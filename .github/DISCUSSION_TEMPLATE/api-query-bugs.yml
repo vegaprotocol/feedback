@@ -52,7 +52,7 @@ body:
       label: pub-key
       description: Please add your vega pubkey to help investigations.
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: system-info
@@ -68,4 +68,4 @@ body:
       label: Screenshots and videos
       description: "Add any other context about the problem here including; screenshots and videos."
     validations:
-      required: true
+      required: false
