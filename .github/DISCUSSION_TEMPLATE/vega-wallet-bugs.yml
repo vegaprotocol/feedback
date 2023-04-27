@@ -1,0 +1,104 @@
+title: "Bug Report: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to file a bug report!
+
+  - type: textarea
+    id: bug
+    attributes:
+      label: Problem encountered
+      description: "A clear and concise description of what the bug is."
+    validations:
+      required: true
+
+  - type: textarea
+    id: observed
+    attributes:
+      label: Observed behaviour
+      description: "A clear and concise description of how the system is behaving."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: "A clear and concise description of what you expected to happen."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: "Detail the steps to reproduce the behaviour."
+      value: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. Observe the error
+        ...
+      render: bash
+      render: bash
+    validations:
+      required: true
+
+  - type: input
+    id: pubkey
+    attributes:
+      label: Public key
+      description: "Please add your Vega public key to help investigations."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network affected
+      description: "Please specify the network affected to help investigations."
+      options:
+        - Mainnet
+        - Validator testnet
+        - Fairground
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: wallet-type
+    attributes:
+      label: Wallet type
+      description: "Please specify which wallet type the bug is applicable to."
+      options:
+        - label: CLI wallet
+        - label: Desktop wallet
+        - label: Node wallet (node operators)
+        - label: Browser wallet
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Wallet version
+      description: "Please add your Vega wallet version number e.g., 0.12.0."
+    validations:
+      required: true
+
+  - type: textarea
+    id: system-info
+    attributes:
+      label: System information
+      description: "Add any other context about the problem here including which app you're using and components affected."
+    validations:
+      required: true
+
+  - type: textarea
+    id: visual-info
+    attributes:
+      label: Screenshots and videos
+      description: "Add any other context about the problem here including screenshots and videos."
+    validations:
+      required: false
